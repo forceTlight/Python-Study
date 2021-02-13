@@ -1,6 +1,6 @@
 # 파이썬 스터디
 ## 스터디원
-- 김성범
+- [김성범](https://github.com/Meogiup)
 - [김형준](https://github.com/forceTlight)
 - 이승희
 
